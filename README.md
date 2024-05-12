@@ -4,6 +4,9 @@ WIP MiniGame
 Title: 
 Unfinished Ball Game
 
+Description of Game:
+You play as a ball awakened from its slumber, forced out into the world to jump ramps and dodge enemy attacks.
+
 Controls: 
 Move around - W,A,S,D
 
