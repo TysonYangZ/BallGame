@@ -28,7 +28,9 @@ Dev Log:
         - player movement script
         - enemy shooting script
         - game manager script
-        - Text for Hud elements such as time and score
+        - Text for Hud elements:
+              - time 
+              - score
         - game over event
         - spawning enemies in waves
 
